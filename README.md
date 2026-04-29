@@ -1,1 +1,1 @@
-# bist-30-assistant
+# bist-insight-assistant
