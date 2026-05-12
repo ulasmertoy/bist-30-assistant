@@ -15,8 +15,8 @@ A knowledge assistant that helps individual investors detect unusual price/volum
 
 ## Status
 - [x] Repo setup
-- [ ] Data layer
-- [ ] ML layer
+- [x] Data layer
+- [x] ML layer
 - [ ] RAG layer
 - [ ] Production
 
